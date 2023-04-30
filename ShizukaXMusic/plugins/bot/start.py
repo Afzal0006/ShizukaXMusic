@@ -274,7 +274,7 @@ async def welcome(client, message: Message):
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/f2aacd3b747c61fb6fb61.jpg",
-        caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ʜᴇʟʟᴏ, sʜɪᴢᴜᴋᴀ ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ꜰᴀʜᴀᴅ](https://t.me/Itz_Fahadxd)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [🥀 ꜰᴀɪʀʏ ʜᴇʟᴘ 🥀](https://t.me/theupdatechannel_143)\n┣★ ʀᴇᴘᴏ › : [ꜰᴀɪʀʏ ʀᴇᴘᴏ](https://te.legra.ph/file/f2aacd3b747c61fb6fb61.jpg)\n┗━━━━━━━━━━━━━━━━━┛\n\n🥂 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Itz_Fahadxd) ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ sᴛᴀʀ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━
+        caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ʜᴇʟʟᴏ, ꜰᴀɪʀʏ ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ꜰᴀʜᴀᴅ](https://t.me/Itz_Fahadxd)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [🥀 ꜰᴀɪʀʏ ʜᴇʟᴘ 🥀](https://t.me/theupdatechannel_143)\n┣★ ʀᴇᴘᴏ › : [ꜰᴀɪʀʏ ʀᴇᴘᴏ](https://te.legra.ph/file/f2aacd3b747c61fb6fb61.jpg)\n┗━━━━━━━━━━━━━━━━━┛\n\n🥂 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Itz_Fahadxd) ᴍᴀᴋᴇ sᴜʀᴇ ᴛᴏ sᴛᴀʀ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━
 """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🥀 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🥀", url=f"https://t.me/Fairy_Support")]]
